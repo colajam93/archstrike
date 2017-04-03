@@ -4,5 +4,4 @@ ArchStrike Dockerfile based on [colajam93/archlinux](https://github.com/colajam9
 - base-devel
 - multilib
 - sudo (user: `test`, password: `test`)
-- yaourt
 - [ArchStrike](https://archstrike.org/)
